@@ -12,3 +12,6 @@ e = d + c
 F = 300
 
 print(a)
+print(b)
+print(d)
+print(e)
